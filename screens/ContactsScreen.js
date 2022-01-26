@@ -63,16 +63,16 @@ class ContactsScreen extends React.Component {
                         <Image style={{height:null,width:null,flex:1}} source={require('../assets/images/ImagesContacts/2.png')}/>
             </View>
             <TouchableOpacity onPress={()=>{ this.pressNumero('06 35 45 42 53')}}  style={{width:width,height:0.131*width,marginBottom:15}}>
-                        <Image style={{height:null,width:null,flex:1}} source={require('../assets/images/ImagesContacts/3.png')}/>
+                        <Image style={{height:null,width:null,flex:1}} source={require('../assets/images/ImagesContacts/Charlotte.png')}/>
             </TouchableOpacity>
             <TouchableOpacity onPress={()=>{ this.pressNumero('06 85 62 44 83')}} style={{width:width,height:0.131*width,marginBottom:15}}>
-                        <Image style={{height:null,width:null,flex:1}} source={require('../assets/images/ImagesContacts/4.png')}/>
+                        <Image style={{height:null,width:null,flex:1}} source={require('../assets/images/ImagesContacts/Ballu.png')}/>
             </TouchableOpacity>
             <TouchableOpacity onPress={()=>{ this.pressNumero('07 86 18 99 30')}}  style={{width:width,height:0.131*width,marginBottom:15}}>
-                        <Image style={{height:null,width:null,flex:1}} source={require('../assets/images/ImagesContacts/5.png')}/>
+                        <Image style={{height:null,width:null,flex:1}} source={require('../assets/images/ImagesContacts/Reb.png')}/>
             </TouchableOpacity>
             <TouchableOpacity onPress={()=>{ this.pressNumero('06 05 11 27 09')}} style={{width:width,height:0.131*width,marginBottom:15}}>
-                        <Image style={{height:null,width:null,flex:1}} source={require('../assets/images/ImagesContacts/6.png')}/>
+                        <Image style={{height:null,width:null,flex:1}} source={require('../assets/images/ImagesContacts/Couret.png')}/>
             </TouchableOpacity>
             <View  style={{width:width,height:0.26*width,marginBottom:15}}>
                         <Image style={{height:null,width:null,flex:1}} source={require('../assets/images/ImagesContacts/7.png')}/>
